@@ -1,1 +1,25 @@
-remote_theme: "jekyll/minima"
+# Site-wide settings
+# ------------------
+#
+# title: jmargutti
+#
+# author:
+#   name: Jacopo Margutti
+#
+# description: >
+#   Jacopo Margutti's website.
+
+theme: minima
+
+minima:
+  skin: auto
+
+date_format: "%Y-%m-%d"
+
+social_links:
+  - title: Jacopo on GitHub
+    icon: github
+    url: "https://github.com/jmargutt"
+  - title: Jacopo on Linkedin
+    icon: linkedin
+    url: "https://www.linkedin.com/in/jmargutti"
