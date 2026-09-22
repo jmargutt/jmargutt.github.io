@@ -19,16 +19,19 @@ sass:
   silence_deprecations: [import]
 
 minima:
-  skin: dark
+  skin: auto
 
-show_excerpts: false
+  # nav_pages:
+  #   - about.md
 
-date_format: "%Y-%m-%d"
+  show_excerpts: false
 
-social_links:
-  - title: Jacopo on GitHub
-    icon: github
-    url: "https://github.com/jmargutt"
-  - title: Jacopo on Linkedin
-    icon: linkedin
-    url: "https://www.linkedin.com/in/jmargutti"
+  date_format: "%Y-%m-%d"
+
+  social_links:
+    - title: Jacopo on GitHub
+      icon: github
+      url: "https://github.com/jmargutt"
+    - title: Jacopo on Linkedin
+      icon: linkedin
+      url: "https://www.linkedin.com/in/jmargutti"
