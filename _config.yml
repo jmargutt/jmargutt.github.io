@@ -1,6 +1,6 @@
-title: Your awesome title
+title: Jacopo's brainwaves
 author:
-  name: GitHub User
+  name: Jacopo Margutti
   email: your-email@domain.com
 
 description: >
@@ -8,9 +8,10 @@ description: >
   in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 
-theme: minima
+remote_theme: jekyll/minima@3.0
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -19,7 +20,7 @@ sass:
   silence_deprecations: [import]
 
 minima:
-  skin: dark
+  skin: auto
 
   # nav_pages:
   #   - about.md
