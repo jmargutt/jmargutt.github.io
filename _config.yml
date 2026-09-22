@@ -1,18 +1,27 @@
-# Site-wide settings
-# ------------------
-#
-# title: jmargutti
-#
-# author:
-#   name: Jacopo Margutti
-#
-# description: >
-#   Jacopo Margutti's website.
+title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
+
+description: >
+  Write an awesome description for your new site here. You can edit this line
+  in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
 minima:
   skin: auto
+
+show_excerpts: false
 
 date_format: "%Y-%m-%d"
 
