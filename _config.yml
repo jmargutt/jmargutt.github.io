@@ -19,7 +19,7 @@ sass:
   silence_deprecations: [import]
 
 minima:
-  skin: auto
+  skin: dark
 
   # nav_pages:
   #   - about.md
