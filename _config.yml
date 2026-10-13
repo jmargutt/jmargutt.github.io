@@ -3,11 +3,12 @@ author:
   name: Jacopo Margutti
 
 description: >
-  Random thoughts.
+  Random thoughts, in written and visual form.
 
-theme: minima
+remote_theme: jekyll/minima
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
