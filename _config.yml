@@ -5,10 +5,9 @@ author:
 description: >
   Random thoughts.
 
-remote_theme: jekyll/minima
+theme: minima
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -19,8 +18,9 @@ sass:
 minima:
   skin: auto
 
-  # nav_pages:
-  #   - about.md
+  nav_pages:
+    - craft.md
+    - photography.md
 
   show_excerpts: false
 
