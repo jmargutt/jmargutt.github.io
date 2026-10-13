@@ -15,17 +15,6 @@ permalink: /craft/
 <br>
 <br>
 
-
-<figcaption><em>Reclame</em> (2022)</figcaption>
-<br>
-<figure>
-  <img
-    src="/assets/images/craft/reclame.jpg"
-  >
-</figure>
-<br>
-<br>
-
 <figcaption><em>Motherboard</em> (2021)</figcaption>
 <br>
 <figure>
@@ -42,6 +31,16 @@ permalink: /craft/
 <figure>
   <img
     src="/assets/images/craft/pretty.jpg"
+  >
+</figure>
+<br>
+<br>
+
+<figcaption><em>Reclame</em> (2019)</figcaption>
+<br>
+<figure>
+  <img
+    src="/assets/images/craft/reclame.jpg"
   >
 </figure>
 <br>
