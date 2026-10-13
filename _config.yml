@@ -20,7 +20,7 @@ minima:
   skin: auto
 
   nav_pages:
-    - abbout.md
+    - about.md
     - craft.md
     - photography.md
 
