@@ -4,6 +4,18 @@ title: Craft
 permalink: /craft/
 ---
 
+<br>
+<figcaption><em>Three wise monkeys</em> (2026)</figcaption>
+<br>
+<figure>
+  <img
+    src="/assets/images/craft/monkeys.jpg"
+  >
+</figure>
+<br>
+<br>
+
+
 <figcaption><em>Reclame</em> (2022)</figcaption>
 <br>
 <figure>
